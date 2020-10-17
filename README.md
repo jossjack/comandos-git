@@ -7,7 +7,7 @@ Establece una configuracion basica para el usuario.
 
 ```bash
 git config --global user.name "joseph"
-git config --global user.email jossjack@hotmail.com
+git config --global user.email support@mail.com
 ```
 
 Este comando se usa para crear un nuevo repertorio GIT.
